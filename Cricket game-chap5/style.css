@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  /* background-color: black;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+}
+
+.choice-btn{
+  height: 100px;
+  width: 100px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  background-color: rgb(163, 229, 65);
+  border-radius: 50px;
+}
+
+.choice-img{
+  height: 75px;
+  border-radius: 50px;
+}
